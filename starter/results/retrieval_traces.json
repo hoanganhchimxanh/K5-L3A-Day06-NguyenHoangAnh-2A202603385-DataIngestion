@@ -1,0 +1,2984 @@
+{
+  "timestamp": "2026-11-13T11:51:58Z",
+  "model": "text-embedding-3-small",
+  "provider": "openai",
+  "dimensions": 1536,
+  "traces": {
+    "A": [
+      {
+        "question_id": "q01",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the Inca communicate and keep records without a written language?",
+        "gold_page": 30,
+        "evidence_quote": "The Inca had no written language. Instead, they communicated and kept records by means of a system of knots and colored strings called the quipu.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p030_fixed_000",
+            "page": 30,
+            "score": 0.7112392241859014,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 1.8 The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots a..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p029_fixed_006",
+            "page": 29,
+            "score": 0.6211308577142836,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "fective administrators. Runners called chasquis\ntraversed the roads in a continuous relay system, ensuring quick communi..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p029_fixed_004",
+            "page": 29,
+            "score": 0.5315451124416695,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "an language called Quechua. At its height in the fifteenth and sixteenth centuries,\nthe Inca Empire, located on the Paci..."
+          }
+        ]
+      },
+      {
+        "question_id": "q02",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
+        "gold_page": 32,
+        "evidence_quote": "this five-square-mile city, now called Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms surrounding the urban center.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p032_fixed_004",
+            "page": 32,
+            "score": 0.7353044713452749,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "ouis. At its height in about 1100 CE, this five-square-mile city, now\ncalled Cahokia, was home to more than ten thousand..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p044_fixed_004",
+            "page": 44,
+            "score": 0.5950621860390478,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ell as the city at Cahokia had\npeaked and were largely memories. The Eastern Woodland peoples were thriving, but they we..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p033_fixed_001",
+            "page": 33,
+            "score": 0.5227006768118079,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "city of Cahokia.\nWomen typically cultivated corn, beans, and squash and harvested nuts and berries, while men hunted, fi..."
+          }
+        ]
+      },
+      {
+        "question_id": "q03",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
+        "gold_page": 34,
+        "evidence_quote": "Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p034_fixed_001",
+            "page": 34,
+            "score": 0.6696936095343308,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "us disease, known as the bubonic plague. In a few short years, it had killed many\nmillions, about one-third of Europe’s ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p034_fixed_002",
+            "page": 34,
+            "score": 0.5074748851664167,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ean society was on the brink of tremendous change.\nFIGURE 1.12 This image depicts the bodily swellings, or buboes, chara..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p034_fixed_000",
+            "page": 34,
+            "score": 0.5013755799509794,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Christian Church remained intact, however, and emerged from the period as a unified and powerful\ninstitution. Priest..."
+          }
+        ]
+      },
+      {
+        "question_id": "q04",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
+        "gold_page": 40,
+        "evidence_quote": "By 750, the Soninke farmers of the sub-Sahara had become wealthy by taxing the trade that passed through their area.",
+        "filter": {
+          "chapter": "Chapter 1"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p040_fixed_001",
+            "page": 40,
+            "score": 0.6272484827336989,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "aged in trade. The\nfirst major empire to emerge in West Africa was the Ghana Empire (Figure 1.16). By 750, the Soninke f..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p040_fixed_002",
+            "page": 40,
+            "score": 0.5430644662182951,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "mineral to the Mediterranean coast of Africa and inland areas. By 900, the monotheistic Muslims controlled\nmost of this ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p040_fixed_004",
+            "page": 40,
+            "score": 0.5342217570220502,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "then discovered huge new deposits of gold east of the Niger River. By\nthe fourteenth century, the empire was so wealthy ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q05",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
+        "gold_page": 42,
+        "evidence_quote": "seeing the near extinction of the native population, suggested the Spanish send Black (and White) laborers to the Indies.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p042_fixed_002",
+            "page": 42,
+            "score": 0.6614687418355859,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "om disease or\nfrom the overwork and cruel treatment they were subjected to. Although he later repented of his ideas, the..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p064_fixed_005",
+            "page": 64,
+            "score": 0.6526110071572948,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "of Spanish rule. A Dominican friar, Las Casas had been one of\nthe earliest Spanish settlers in the Spanish West Indies. ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p065_fixed_001",
+            "page": 65,
+            "score": 0.6094509742244693,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "stified their own efforts as more humane. All European colonizers, however, shared a disregard\nfor Native peoples.\nBarto..."
+          }
+        ]
+      },
+      {
+        "question_id": "q06",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
+        "gold_page": 52,
+        "evidence_quote": "Spain gained territory west of the line, while Portugal retained the lands east of the line, including the east coast of Brazil.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p052_fixed_001",
+            "page": 52,
+            "score": 0.7218332114850805,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "ain’s Atlantic claims at the expense of Portugal. Hoping to salvage Portugal’s Atlantic\nholdings, King João II began neg..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p052_fixed_000",
+            "page": 52,
+            "score": 0.6662946514214766,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "domination through the acquisition of new lands. In the 1480s, Pope Sixtus IV had granted Portugal the right to\nall land..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p052_fixed_002",
+            "page": 52,
+            "score": 0.6281537982945982,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "artographer’s interpretation of the\nworld in light of recent discoveries. The map shows areas of Portuguese and Spanish ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q07",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
+        "gold_page": 52,
+        "evidence_quote": "Hernán Cortés hoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual pension for his service to the crown.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p052_fixed_003",
+            "page": 52,
+            "score": 0.6243890408646082,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "sh exploration. Inspired by tales of rivers of gold and timid,\nmalleable natives, later Spanish explorers were relentles..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p064_fixed_002",
+            "page": 64,
+            "score": 0.5908266190932817,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "perform the work necessary to keep the colonies going.\nSpain granted encomiendas—legal rights to native labor—to conquis..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p052_fixed_004",
+            "page": 52,
+            "score": 0.5550329796836116,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Cortés later explored the Yucatán Peninsula. In\n1519, he entered Tenochtitlán, the capital of the Aztec (Mexica) Empire...."
+          }
+        ]
+      },
+      {
+        "question_id": "q08",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
+        "gold_page": 56,
+        "evidence_quote": "Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of the German painter Lucas Cranach the Elder.",
+        "filter": {
+          "chapter": "Chapter 2"
+        },
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p055_fixed_002",
+            "page": 55,
+            "score": 0.618490852445796,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "he faithful. Spain, with its New World wealth, was the bastion of the\nCatholic faith. Beginning with the reform efforts ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p056_fixed_002",
+            "page": 56,
+            "score": 0.613211576495112,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "art of it, Luther’s action instead triggered a movement called\nthe Protestant Reformation that divided the Church in two..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p056_fixed_000",
+            "page": 56,
+            "score": 0.5983913101471586,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 2.8 Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe Ger..."
+          }
+        ]
+      },
+      {
+        "question_id": "q09",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
+        "gold_page": 59,
+        "evidence_quote": "The only trace the colonists left behind was the word Croatoan carved into a fence surrounding the village.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p059_fixed_006",
+            "page": 59,
+            "score": 0.6658304867809851,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "an carved into a fence surrounding the village. Governor White never knew whether the\ncolonists had decamped for nearby ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p059_fixed_005",
+            "page": 59,
+            "score": 0.6332574974221004,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "y was small, consisting of only 117 people, who suffered a poor relationship with the local Croatans, and\nstruggled to s..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p069_fixed_004",
+            "page": 69,
+            "score": 0.5526003297644906,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "land by ridding it of practices associated with the Catholic Church and advocating greater\npurity of doctrine and worshi..."
+          }
+        ]
+      },
+      {
+        "question_id": "q10",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
+        "gold_page": 64,
+        "evidence_quote": "Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the crown.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p064_fixed_002",
+            "page": 64,
+            "score": 0.6700639102902773,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "perform the work necessary to keep the colonies going.\nSpain granted encomiendas—legal rights to native labor—to conquis..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p074_fixed_003",
+            "page": 74,
+            "score": 0.5778403248256968,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ish imposed the encomienda system in the areas they controlled. Under this system,\nauthorities assigned Native workers t..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p064_fixed_003",
+            "page": 64,
+            "score": 0.5773926444705755,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "the Mexica, was granted one.\nThe Spanish believed native peoples would work for them by right of conquest, and, in retur..."
+          }
+        ]
+      },
+      {
+        "question_id": "q11",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
+        "gold_page": 66,
+        "evidence_quote": "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives and landscapes on both sides of the ocean.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p068_fixed_000",
+            "page": 68,
+            "score": 0.6529884780631583,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "CLICK AND EXPL ORE\nVisit Nature Transformed (https://openstax.org/l/naturetrans) for a collection of scholarly essays on..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p095_fixed_000",
+            "page": 95,
+            "score": 0.5543950806528166,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ENVIRONMENTAL CHANGES\nThe European presence in America spurred countless changes in the environment, setting into motion..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p066_fixed_008",
+            "page": 66,
+            "score": 0.5487294704189541,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "o-way exchanges between the Americas and Europe/Africa\nare known collectively as the Columbian Exchange (Figure 2.15).\n5..."
+          }
+        ]
+      },
+      {
+        "question_id": "q12",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
+        "gold_page": 75,
+        "evidence_quote": "In 1565, the victorious Menéndez founded St. Augustine, now the oldest European settlement in the Americas.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p075_fixed_001",
+            "page": 75,
+            "score": 0.4997072198679442,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "nded St. Augustine, now the oldest European settlement in the Americas.\nIn the process, the Spanish displaced the local ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p076_fixed_001",
+            "page": 76,
+            "score": 0.48650705704044794,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "1610, Spanish settlers established themselves at Santa Fe—originally\nnamed La Villa Real de la Santa Fe de San Francisco..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p098_fixed_005",
+            "page": 98,
+            "score": 0.4740842669791525,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "te to colonization of the Americas, establishing stable settlements in the 1600s after\nseveral unsuccessful attempts in ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q13",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
+        "gold_page": 78,
+        "evidence_quote": "it granted Dutch merchants who invested heavily in it patroonships, or large tracts of land and the right to govern the tenants there.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p078_fixed_000",
+            "page": 78,
+            "score": 0.6251831627312119,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 3.6 This 1684 map of New Netherland shows the extent of Dutch settlement.\nThe Dutch West India Company found the ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p078_fixed_001",
+            "page": 78,
+            "score": 0.5443847934994219,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "tch farmers to populate the colony. One of the largest\npatroonships was granted to Kiliaen van Rensselaer, one of the di..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p077_fixed_004",
+            "page": 77,
+            "score": 0.5232893292003815,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "comed non-Dutch immigrants,\nincluding Protestants from Germany, Sweden, Denmark, and England, and embraced a degree of r..."
+          }
+        ]
+      },
+      {
+        "question_id": "q14",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
+        "gold_page": 81,
+        "evidence_quote": "growing tobacco was the only sure means of making money.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p083_fixed_001",
+            "page": 83,
+            "score": 0.5723224973455503,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "by 1619, the fledgling colony was operating under the leadership of a governor, a council, and a\nHouse of Burgesses. Eco..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p082_fixed_002",
+            "page": 82,
+            "score": 0.5669460816174148,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ES: VIRGINIA AND MARYLAND\nThe Chesapeake colonies of Virginia and Maryland served a vital purpose in the developing seve..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p085_fixed_003",
+            "page": 85,
+            "score": 0.5245950971490809,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "d in the 1620s, English planters\nfirst grew tobacco as their main export crop, but in the 1640s, they converted to sugar..."
+          }
+        ]
+      },
+      {
+        "question_id": "q15",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
+        "gold_page": 84,
+        "evidence_quote": "those who paid their own passage to Virginia received fifty acres plus an additional fifty for each servant or family member they brought with them.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p084_fixed_000",
+            "page": 84,
+            "score": 0.6201127540750112,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "the planters would then sell them to other tobacco planters to avoid the costs of raising a child.\nNonetheless, those in..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p084_fixed_001",
+            "page": 84,
+            "score": 0.6131996990975486,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "member they brought with them. The headright system and the\npromise of a new life for servants acted as powerful incenti..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p098_fixed_000",
+            "page": 98,
+            "score": 0.5745213169583666,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Key Terms\nheadright system a system in which parcels of land were granted to settlers who could pay their own way to\nVir..."
+          }
+        ]
+      },
+      {
+        "question_id": "q16",
+        "split": "test",
+        "type": "truc_tiep",
+        "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+        "gold_page": 61,
+        "evidence_quote": "Their story includes the signing of the Mayflower Compact, a written agreement whereby the English voluntarily agreed to help each other.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p088_fixed_001",
+            "page": 88,
+            "score": 0.6743326652218893,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Puritans established the Massachusetts Bay Colony in the 1630s, the Pilgrims at Plymouth\nwelcomed them and the two colon..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p088_fixed_002",
+            "page": 88,
+            "score": 0.6654417074847915,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ion? How much authority did it convey, and to whom?\nFIGURE 3.11 The original Mayflower Compact is no longer extant; only..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p061_fixed_005",
+            "page": 61,
+            "score": 0.6378310875674011,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "y agreed to help each other. Some interpret this 1620 document as\nan expression of democratic spirit because of the coop..."
+          }
+        ]
+      },
+      {
+        "question_id": "q17",
+        "split": "test",
+        "type": "dien_dat_lai",
+        "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+        "gold_page": 90,
+        "evidence_quote": "Puritan minister Roger Williams and Anne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p090_fixed_001",
+            "page": 90,
+            "score": 0.660128295449504,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "ame to understand their spiritual estate by hearing sermons and studying the Bible.\nAlthough many people assume Puritans..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p087_fixed_003",
+            "page": 87,
+            "score": 0.6530992761321985,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "an effort to silence all dissenting voices. Other Puritan leaders, such as\nthe first governor of the Massachusetts Bay C..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p081_fixed_005",
+            "page": 81,
+            "score": 0.6086242532019904,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "d, established in the 1530s—demanded conformity, or compliance\nwith its practices, but Puritans pushed for greater refor..."
+          }
+        ]
+      },
+      {
+        "question_id": "q18",
+        "split": "test",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+        "gold_page": 91,
+        "evidence_quote": "Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to stop the encroachment.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p091_fixed_004",
+            "page": 91,
+            "score": 0.6948541613396129,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "mined to\nstop the encroachment. The Wampanoag, along with the Nipmuck, Pocumtuck, and Narragansett, took up\narms to driv..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p091_fixed_003",
+            "page": 91,
+            "score": 0.6766349296033551,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "ystic River in Connecticut. To the horror of their Native\nallies, the Puritans massacred all but a handful of the men, w..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p091_fixed_001",
+            "page": 91,
+            "score": 0.618767952163147,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "d as European ways increasingly disrupted native life. These strains led to King Philip’s War\n(1675–1676), a massive reg..."
+          }
+        ]
+      },
+      {
+        "question_id": "q19",
+        "split": "test",
+        "type": "dien_dat_lai",
+        "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+        "gold_page": 95,
+        "evidence_quote": "Huron and Iroquois around the Great Lakes died of smallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had the highest mortality rates.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p095_fixed_004",
+            "page": 95,
+            "score": 0.7566716144194392,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "d 1618, epidemics claimed the lives of 75\npercent of the native people. In the 1630s, half the Huron and Iroquois around..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p068_fixed_004",
+            "page": 68,
+            "score": 0.5301770576015287,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "tingly brought with them\nchickenpox, measles, mumps, and smallpox, which ravaged native peoples despite their attempts t..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p062_fixed_001",
+            "page": 62,
+            "score": 0.5006955302365821,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "ain made an alliance with the Huron confederacy and the Algonquins and\nagreed to fight with them against their enemy, th..."
+          }
+        ]
+      },
+      {
+        "question_id": "q20",
+        "split": "test",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+        "gold_page": 76,
+        "evidence_quote": "The Pueblo Revolt killed over four hundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p076_fixed_004",
+            "page": 76,
+            "score": 0.6897758611766148,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "rosperity and\na pure, native way of life.\nIn 1680, the Pueblo launched a coordinated rebellion against the Spanish. The ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p076_fixed_002",
+            "page": 76,
+            "score": 0.5451733231968532,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "es labored to bring about a spiritual conquest by\nconverting the Pueblo to Catholicism. At first, the Pueblo adopted the..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p076_fixed_001",
+            "page": 76,
+            "score": 0.5303210997716802,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "1610, Spanish settlers established themselves at Santa Fe—originally\nnamed La Villa Real de la Santa Fe de San Francisco..."
+          }
+        ]
+      }
+    ],
+    "B": [
+      {
+        "question_id": "q01",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the Inca communicate and keep records without a written language?",
+        "gold_page": 30,
+        "evidence_quote": "The Inca had no written language. Instead, they communicated and kept records by means of a system of knots and colored strings called the quipu.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p030_para_000",
+            "page": 30,
+            "score": 0.7189708032047251,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 1.8 The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots a..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p029_para_004",
+            "page": 29,
+            "score": 0.6089848426399321,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "These roads enabled the rapid movement of the highly\ntrained Incan army. Also like the Romans, the Inca were effective a..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p029_para_003",
+            "page": 29,
+            "score": 0.5021763870732927,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "At its height in the fifteenth and sixteenth centuries,\nthe Inca Empire, located on the Pacific coast and straddling the..."
+          }
+        ]
+      },
+      {
+        "question_id": "q02",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
+        "gold_page": 32,
+        "evidence_quote": "this five-square-mile city, now called Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms surrounding the urban center.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p032_para_003",
+            "page": 32,
+            "score": 0.6419578341473683,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The city also contained one hundred and twenty earthen mounds or pyramids,\neach dominating a particular neighborhood and..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p032_para_002",
+            "page": 32,
+            "score": 0.5941850029924352,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "With these materials they\ncreated necklaces, woven mats, and exquisite carvings. What remains of their culture today are..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p044_para_003",
+            "page": 44,
+            "score": 0.49528310661590735,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In North America,\nthe complex Pueblo societies including the Mogollon, Hohokam, and Anasazi as well as the city at Cahok..."
+          }
+        ]
+      },
+      {
+        "question_id": "q03",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
+        "gold_page": 34,
+        "evidence_quote": "Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p034_para_000",
+            "page": 34,
+            "score": 0.6071339408547242,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "The Christian Church remained intact, however, and emerged from the period as a unified and powerful\ninstitution. Priest..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p034_para_001",
+            "page": 34,
+            "score": 0.5376526789261938,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "A\nhigh birth rate, however, coupled with bountiful harvests, meant that the population grew during the next\ncentury. By ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p068_para_002",
+            "page": 68,
+            "score": 0.4970991202850674,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Travelers between the Americas, Africa, and Europe also included microbes: silent, invisible life forms that\nhad profoun..."
+          }
+        ]
+      },
+      {
+        "question_id": "q04",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
+        "gold_page": 40,
+        "evidence_quote": "By 750, the Soninke farmers of the sub-Sahara had become wealthy by taxing the trade that passed through their area.",
+        "filter": {
+          "chapter": "Chapter 1"
+        },
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p040_para_001",
+            "page": 40,
+            "score": 0.590656673819796,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "For instance, the\nNiger River basin supplied gold to the Berber and Arab traders from west of the Nile Valley, who broug..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p040_para_002",
+            "page": 40,
+            "score": 0.517971477218162,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 1.16 This map shows the general locations of major West African empires before 1492. Along the\nMediterranean coas..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p039_para_002",
+            "page": 39,
+            "score": 0.5178131367391504,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In the more\nheavily wooded area near the equator, farmers raised yams, palm products, or plantains. The savanna areas\nyi..."
+          }
+        ]
+      },
+      {
+        "question_id": "q05",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
+        "gold_page": 42,
+        "evidence_quote": "seeing the near extinction of the native population, suggested the Spanish send Black (and White) laborers to the Indies.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p064_para_003",
+            "page": 64,
+            "score": 0.6802933732039533,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "A Dominican friar, Las Casas had been one of\nthe earliest Spanish settlers in the Spanish West Indies. In his early life..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p042_para_001",
+            "page": 42,
+            "score": 0.6605679370844117,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Initially, the Spanish and Portuguese tried to force\nNative people to farm their crops. However, enslaved Native people ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p065_para_001",
+            "page": 65,
+            "score": 0.6307133977654852,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Bartolomé de Las Casas on the Mistreatment of Native Peoples\nBartolomé de Las Casas’s A Short Account of the Destruction..."
+          }
+        ]
+      },
+      {
+        "question_id": "q06",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
+        "gold_page": 52,
+        "evidence_quote": "Spain gained territory west of the line, while Portugal retained the lands east of the line, including the east coast of Brazil.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p052_para_001",
+            "page": 52,
+            "score": 0.7578862226816117,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "The resulting Treaty of Tordesillas in 1494 drew a north-\nto-south line through South America (Figure 2.5); Spain gained..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p052_para_000",
+            "page": 52,
+            "score": 0.6732466335273564,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "domination through the acquisition of new lands. In the 1480s, Pope Sixtus IV had granted Portugal the right to\nall land..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p050_para_001",
+            "page": 50,
+            "score": 0.5668609988988865,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Reconquista marked another step forward in the process of making\nSpain an imperial power, and Ferdinand and Isabella..."
+          }
+        ]
+      },
+      {
+        "question_id": "q07",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
+        "gold_page": 52,
+        "evidence_quote": "Hernán Cortés hoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual pension for his service to the crown.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p052_para_002",
+            "page": 52,
+            "score": 0.6388338057233126,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Inspired by tales of rivers of gold and timid,\nmalleable natives, later Spanish explorers were relentless in their quest..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p064_para_001",
+            "page": 64,
+            "score": 0.6090931002085931,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Everywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to p..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p053_para_001",
+            "page": 53,
+            "score": 0.5587461636316962,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Cortés was also aided by a Nahua woman called Malintzin (also known as La Malinche or Doña Marina, her\nSpanish name), wh..."
+          }
+        ]
+      },
+      {
+        "question_id": "q08",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
+        "gold_page": 56,
+        "evidence_quote": "Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of the German painter Lucas Cranach the Elder.",
+        "filter": {
+          "chapter": "Chapter 2"
+        },
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p055_para_001",
+            "page": 55,
+            "score": 0.6278643187294384,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Vatican\nin Rome exercised great power over the lives of Europeans; it controlled not only learning and scholarship b..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p056_para_000",
+            "page": 56,
+            "score": 0.601147688942145,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 2.8 Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe Ger..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p069_para_005",
+            "page": 69,
+            "score": 0.5838656708012446,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The reformist doctrines of\nMartin Luther and John Calvin attracted many people dissatisfied with Catholicism, and Protes..."
+          }
+        ]
+      },
+      {
+        "question_id": "q09",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
+        "gold_page": 59,
+        "evidence_quote": "The only trace the colonists left behind was the word Croatoan carved into a fence surrounding the village.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p059_para_003",
+            "page": 59,
+            "score": 0.6533298699070899,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "The\ncolony was small, consisting of only 117 people, who suffered a poor relationship with the local Croatans, and\nstrug..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p059_para_004",
+            "page": 59,
+            "score": 0.5681419468191874,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Roanoke is still called “the lost colony.”\nFIGURE 2.11 In 1588, a promoter of English colonization named Thomas Hariot p..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p069_para_002",
+            "page": 69,
+            "score": 0.4526835166314451,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "that began with Martin Luther and John Calvin in the early\nsixteenth century\nPuritans a group of religious reformers in ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q10",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
+        "gold_page": 64,
+        "evidence_quote": "Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the crown.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p064_para_001",
+            "page": 64,
+            "score": 0.6587488681156607,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Everywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to p..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p064_para_002",
+            "page": 64,
+            "score": 0.5948821073174212,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In theory the relationship consisted of reciprocal obligations, but in practice\nthe Spaniards ruthlessly exploited it, s..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p074_para_001",
+            "page": 74,
+            "score": 0.5492081076313116,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In all matters, the Spanish held\nthemselves to be atop the social pyramid, with Native peoples and Africans beneath them..."
+          }
+        ]
+      },
+      {
+        "question_id": "q11",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
+        "gold_page": 66,
+        "evidence_quote": "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives and landscapes on both sides of the ocean.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p068_para_000",
+            "page": 68,
+            "score": 0.6743257998409159,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "CLICK AND EXPL ORE\nVisit Nature Transformed (https://openstax.org/l/naturetrans) for a collection of scholarly essays on..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p066_para_005",
+            "page": 66,
+            "score": 0.61824215642041,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "THE COLUMBIAN EXCHANGE\nAs Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that ch..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p068_para_001",
+            "page": 68,
+            "score": 0.5755299124449476,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Europeans encountered New World animals as well. Because European Christians understood the world as a\nplace of warfare ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q12",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
+        "gold_page": 75,
+        "evidence_quote": "In 1565, the victorious Menéndez founded St. Augustine, now the oldest European settlement in the Americas.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p098_para_002",
+            "page": 98,
+            "score": 0.49192737696118627,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Augustine, the first\nSpanish settlement in North America\nwampum shell beads used in ceremonies and as jewelry and curren..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p098_para_003",
+            "page": 98,
+            "score": 0.48127262608390986,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions\nThe French and Dutch established colonies in the northeaster..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p073_para_001",
+            "page": 73,
+            "score": 0.47696871497760385,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "INTRODUCTION\nCHAPTER OUTLINE\n3.1 Spanish Exploration and Colonial Society\n3.2 Colonial Rivalries: Dutch and French Colon..."
+          }
+        ]
+      },
+      {
+        "question_id": "q13",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
+        "gold_page": 78,
+        "evidence_quote": "it granted Dutch merchants who invested heavily in it patroonships, or large tracts of land and the right to govern the tenants there.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p078_para_000",
+            "page": 78,
+            "score": 0.6304947360499691,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 3.6 This 1684 map of New Netherland shows the extent of Dutch settlement. The Dutch West India Company found the ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p077_para_002",
+            "page": 77,
+            "score": 0.539946692634866,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The small size of the population meant a\nsevere labor shortage, and to complete the arduous tasks of early settlement, t..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p078_para_001",
+            "page": 78,
+            "score": 0.5273196980362237,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "This pattern of settlement created a yawning\ngap in wealth and status between the tenants, who paid rent, and the wealth..."
+          }
+        ]
+      },
+      {
+        "question_id": "q14",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
+        "gold_page": 81,
+        "evidence_quote": "growing tobacco was the only sure means of making money.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p083_para_001",
+            "page": 83,
+            "score": 0.594750065384647,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In\n1614, the Virginia colony began exporting tobacco back to England, which earned it a sizable profit and saved\nthe col..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p081_para_001",
+            "page": 81,
+            "score": 0.5202439346567078,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Though the early\nVirginians at Jamestown hoped to find gold, they and the settlers in Maryland quickly discovered that g..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p085_para_002",
+            "page": 85,
+            "score": 0.5163859403184194,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "On the small island of Barbados, colonized in the 1620s, English planters\nfirst grew tobacco as their main export crop, ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q15",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
+        "gold_page": 84,
+        "evidence_quote": "those who paid their own passage to Virginia received fifty acres plus an additional fifty for each servant or family member they brought with them.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p084_para_000",
+            "page": 84,
+            "score": 0.626680726219887,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "the planters would then sell them to other tobacco planters to avoid the costs of raising a child. Nonetheless, those in..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p098_para_000",
+            "page": 98,
+            "score": 0.551287730550987,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Key Terms\nheadright system a system in which parcels of land were granted to settlers who could pay their own way to\nVir..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p081_para_000",
+            "page": 81,
+            "score": 0.4989424428770123,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 3.8 In the early seventeenth century, thousands of English settlers came to what are now Virginia,\nMaryland, and ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q16",
+        "split": "test",
+        "type": "truc_tiep",
+        "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+        "gold_page": 61,
+        "evidence_quote": "Their story includes the signing of the Mayflower Compact, a written agreement whereby the English voluntarily agreed to help each other.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p088_para_001",
+            "page": 88,
+            "score": 0.6771555328891904,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Mayflower Compact and Its Religious Rationale\nThe Mayflower Compact, which forty-one Pilgrim men signed on board the..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p088_para_000",
+            "page": 88,
+            "score": 0.637097592811757,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Separatists represented a major challenge to the prevailing vision of a unified English national church and\nempire. On b..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p061_para_003",
+            "page": 61,
+            "score": 0.6270314110469924,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Some interpret this 1620 document as\nan expression of democratic spirit because of the cooperative and inclusive nature ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q17",
+        "split": "test",
+        "type": "dien_dat_lai",
+        "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+        "gold_page": 90,
+        "evidence_quote": "Puritan minister Roger Williams and Anne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p090_para_001",
+            "page": 90,
+            "score": 0.689536391963786,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "When dissenters, including Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachu..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p087_para_001",
+            "page": 87,
+            "score": 0.6002681190703144,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "These reformers, who followed the teachings of John Calvin and other Protestant\nreformers, were called Puritans because ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p081_para_003",
+            "page": 81,
+            "score": 0.5486368460258922,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The source of those differences lay in England’s domestic problems. Increasingly in the early 1600s, the\nEnglish state c..."
+          }
+        ]
+      },
+      {
+        "question_id": "q18",
+        "split": "test",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+        "gold_page": 91,
+        "evidence_quote": "Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to stop the encroachment.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p091_para_002",
+            "page": 91,
+            "score": 0.7298818406449508,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "By the mid-seventeenth century, the Puritans had pushed their way further into the interior of New England,\nestablishing..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p091_para_000",
+            "page": 91,
+            "score": 0.5741812213046864,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "reading scripture, he translated the Bible into the local Algonquian language and published his work in 1663. Eliot hope..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p091_para_001",
+            "page": 91,
+            "score": 0.5295516374213092,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "When the Puritans began to arrive in the 1620s and 1630s, local Algonquian peoples had viewed them as\npotential allies i..."
+          }
+        ]
+      },
+      {
+        "question_id": "q19",
+        "split": "test",
+        "type": "dien_dat_lai",
+        "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+        "gold_page": 95,
+        "evidence_quote": "Huron and Iroquois around the Great Lakes died of smallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had the highest mortality rates.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p095_para_002",
+            "page": 95,
+            "score": 0.6012300587219783,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Native\npeoples who moved seasonally to take advantage of natural resources now found areas off limits, claimed by\ncoloni..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p068_para_003",
+            "page": 68,
+            "score": 0.4971015207939973,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In eastern North America, some native peoples interpreted death from disease as a hostile act. Some groups,\nincluding th..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p068_para_002",
+            "page": 68,
+            "score": 0.4758206424650918,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Travelers between the Americas, Africa, and Europe also included microbes: silent, invisible life forms that\nhad profoun..."
+          }
+        ]
+      },
+      {
+        "question_id": "q20",
+        "split": "test",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+        "gold_page": 76,
+        "evidence_quote": "The Pueblo Revolt killed over four hundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p076_para_002",
+            "page": 76,
+            "score": 0.6207976089162344,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "This\ndeep insult, combined with an extended period of drought and increased attacks by local Apache and Navajo\nin the 16..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p076_para_003",
+            "page": 76,
+            "score": 0.5906116580194812,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "However, as droughts and attacks by rival tribes continued, the Spanish sensed an opportunity to regain their\nfoothold. ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p076_para_001",
+            "page": 76,
+            "score": 0.5853220425522562,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Santa Fe became the capital of the Kingdom of New Mexico,\nan outpost of the larger Spanish Viceroyalty of New Spain, whi..."
+          }
+        ]
+      }
+    ],
+    "C": [
+      {
+        "question_id": "q01",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the Inca communicate and keep records without a written language?",
+        "gold_page": 30,
+        "evidence_quote": "The Inca had no written language. Instead, they communicated and kept records by means of a system of knots and colored strings called the quipu.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p030_para_000",
+            "page": 30,
+            "score": 0.7189708032047251,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 1.8 The Inca had no written language. Instead, they communicated and kept records by means of a system\nof knots a..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p029_para_004",
+            "page": 29,
+            "score": 0.6089848426399321,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "These roads enabled the rapid movement of the highly\ntrained Incan army. Also like the Romans, the Inca were effective a..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p029_para_003",
+            "page": 29,
+            "score": 0.5021763870732927,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "At its height in the fifteenth and sixteenth centuries,\nthe Inca Empire, located on the Pacific coast and straddling the..."
+          }
+        ]
+      },
+      {
+        "question_id": "q02",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What was the estimated population of the city of Cahokia at its peak around 1100 CE?",
+        "gold_page": 32,
+        "evidence_quote": "this five-square-mile city, now called Cahokia, was home to more than ten thousand residents; tens of thousands more lived on farms surrounding the urban center.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p032_para_003",
+            "page": 32,
+            "score": 0.6419578341473683,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The city also contained one hundred and twenty earthen mounds or pyramids,\neach dominating a particular neighborhood and..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p032_para_002",
+            "page": 32,
+            "score": 0.5941850029924352,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "With these materials they\ncreated necklaces, woven mats, and exquisite carvings. What remains of their culture today are..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p044_para_003",
+            "page": 44,
+            "score": 0.49528310661590735,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In North America,\nthe complex Pueblo societies including the Mogollon, Hohokam, and Anasazi as well as the city at Cahok..."
+          }
+        ]
+      },
+      {
+        "question_id": "q03",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "What catastrophic pandemic devastated the European population in the fourteenth century, wiping out entire villages?",
+        "gold_page": 34,
+        "evidence_quote": "Together these two are collectively called the Black Death (Figure 1.12). Entire villages disappeared.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p034_para_000",
+            "page": 34,
+            "score": 0.6071339408547242,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "The Christian Church remained intact, however, and emerged from the period as a unified and powerful\ninstitution. Priest..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p034_para_001",
+            "page": 34,
+            "score": 0.5376526789261938,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "A\nhigh birth rate, however, coupled with bountiful harvests, meant that the population grew during the next\ncentury. By ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p068_para_002",
+            "page": 68,
+            "score": 0.4970991202850674,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Travelers between the Americas, Africa, and Europe also included microbes: silent, invisible life forms that\nhad profoun..."
+          }
+        ]
+      },
+      {
+        "question_id": "q04",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the Soninke farmers of the sub-Sahara Ghana Empire generate their wealth by 750 CE?",
+        "gold_page": 40,
+        "evidence_quote": "By 750, the Soninke farmers of the sub-Sahara had become wealthy by taxing the trade that passed through their area.",
+        "filter": {
+          "chapter": "Chapter 1"
+        },
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p040_para_001",
+            "page": 40,
+            "score": 0.590656673819796,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "For instance, the\nNiger River basin supplied gold to the Berber and Arab traders from west of the Nile Valley, who broug..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p040_para_002",
+            "page": 40,
+            "score": 0.517971477218162,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 1.16 This map shows the general locations of major West African empires before 1492. Along the\nMediterranean coas..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p039_para_002",
+            "page": 39,
+            "score": 0.5178131367391504,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In the more\nheavily wooded area near the equator, farmers raised yams, palm products, or plantains. The savanna areas\nyi..."
+          }
+        ]
+      },
+      {
+        "question_id": "q05",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What alternative labor policy did Bartolomé de Las Casas advocate to prevent the extinction of the native population in the West Indies?",
+        "gold_page": 42,
+        "evidence_quote": "seeing the near extinction of the native population, suggested the Spanish send Black (and White) laborers to the Indies.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p064_para_003",
+            "page": 64,
+            "score": 0.6802933732039533,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "A Dominican friar, Las Casas had been one of\nthe earliest Spanish settlers in the Spanish West Indies. In his early life..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p042_para_001",
+            "page": 42,
+            "score": 0.6605679370844117,
+            "chapter": "Chapter 1: The Americas, Europe, and Africa Before 1492",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Initially, the Spanish and Portuguese tried to force\nNative people to farm their crops. However, enslaved Native people ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p065_para_001",
+            "page": 65,
+            "score": 0.6307133977654852,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Bartolomé de Las Casas on the Mistreatment of Native Peoples\nBartolomé de Las Casas’s A Short Account of the Destruction..."
+          }
+        ]
+      },
+      {
+        "question_id": "q06",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the 1494 Treaty of Tordesillas divide newly discovered overseas territories between Spain and Portugal?",
+        "gold_page": 52,
+        "evidence_quote": "Spain gained territory west of the line, while Portugal retained the lands east of the line, including the east coast of Brazil.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p052_para_001",
+            "page": 52,
+            "score": 0.7578862226816117,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "The resulting Treaty of Tordesillas in 1494 drew a north-\nto-south line through South America (Figure 2.5); Spain gained..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p052_para_000",
+            "page": 52,
+            "score": 0.6732466335273564,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "domination through the acquisition of new lands. In the 1480s, Pope Sixtus IV had granted Portugal the right to\nall land..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p050_para_001",
+            "page": 50,
+            "score": 0.5668609988988865,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Reconquista marked another step forward in the process of making\nSpain an imperial power, and Ferdinand and Isabella..."
+          }
+        ]
+      },
+      {
+        "question_id": "q07",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What rewards and concessions did Hernán Cortés seek from the Spanish monarch in exchange for his military conquests in the New World?",
+        "gold_page": 52,
+        "evidence_quote": "Hernán Cortés hoped to gain hereditary privilege for his family, tribute payments and labor from natives, and an annual pension for his service to the crown.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p052_para_002",
+            "page": 52,
+            "score": 0.6388338057233126,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Inspired by tales of rivers of gold and timid,\nmalleable natives, later Spanish explorers were relentless in their quest..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p064_para_001",
+            "page": 64,
+            "score": 0.6090931002085931,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Everywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to p..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p053_para_001",
+            "page": 53,
+            "score": 0.5587461636316962,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Cortés was also aided by a Nahua woman called Malintzin (also known as La Malinche or Doña Marina, her\nSpanish name), wh..."
+          }
+        ]
+      },
+      {
+        "question_id": "q08",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "Which religious figure sparked the Protestant Reformation in sixteenth-century Europe?",
+        "gold_page": 56,
+        "evidence_quote": "Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of the German painter Lucas Cranach the Elder.",
+        "filter": {
+          "chapter": "Chapter 2"
+        },
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p055_para_001",
+            "page": 55,
+            "score": 0.6278643187294384,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Vatican\nin Rome exercised great power over the lives of Europeans; it controlled not only learning and scholarship b..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p056_para_000",
+            "page": 56,
+            "score": 0.601147688942145,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 2.8 Martin Luther, a German Catholic monk and leader of the Protestant Reformation, was a close friend of\nthe Ger..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p069_para_005",
+            "page": 69,
+            "score": 0.5838656708012446,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The reformist doctrines of\nMartin Luther and John Calvin attracted many people dissatisfied with Catholicism, and Protes..."
+          }
+        ]
+      },
+      {
+        "question_id": "q09",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What mysterious clue was discovered at the abandoned English settlement of Roanoke when Governor White returned in 1590?",
+        "gold_page": 59,
+        "evidence_quote": "The only trace the colonists left behind was the word Croatoan carved into a fence surrounding the village.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p059_para_003",
+            "page": 59,
+            "score": 0.6533298699070899,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "The\ncolony was small, consisting of only 117 people, who suffered a poor relationship with the local Croatans, and\nstrug..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p059_para_004",
+            "page": 59,
+            "score": 0.5681419468191874,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Roanoke is still called “the lost colony.”\nFIGURE 2.11 In 1588, a promoter of English colonization named Thomas Hariot p..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p069_para_002",
+            "page": 69,
+            "score": 0.4526835166314451,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "that began with Martin Luther and John Calvin in the early\nsixteenth century\nPuritans a group of religious reformers in ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q10",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What legal rights were conferred upon Spanish conquistadors under the encomienda grant system?",
+        "gold_page": 64,
+        "evidence_quote": "Spain granted encomiendas—legal rights to native labor—to conquistadors who could prove their service to the crown.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p064_para_001",
+            "page": 64,
+            "score": 0.6587488681156607,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Everywhere in the Americas, a crushing demand for labor bedeviled\nEuropeans because there were not enough colonists to p..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p064_para_002",
+            "page": 64,
+            "score": 0.5948821073174212,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In theory the relationship consisted of reciprocal obligations, but in practice\nthe Spaniards ruthlessly exploited it, s..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p074_para_001",
+            "page": 74,
+            "score": 0.5492081076313116,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In all matters, the Spanish held\nthemselves to be atop the social pyramid, with Native peoples and Africans beneath them..."
+          }
+        ]
+      },
+      {
+        "question_id": "q11",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "How did early transatlantic voyages alter the ecosystems of both the Americas and the Old World?",
+        "gold_page": 66,
+        "evidence_quote": "As Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that changed lives and landscapes on both sides of the ocean.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p068_para_000",
+            "page": 68,
+            "score": 0.6743257998409159,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "CLICK AND EXPL ORE\nVisit Nature Transformed (https://openstax.org/l/naturetrans) for a collection of scholarly essays on..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p066_para_005",
+            "page": 66,
+            "score": 0.61824215642041,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "THE COLUMBIAN EXCHANGE\nAs Europeans traversed the Atlantic, they brought with them plants, animals, and diseases that ch..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p068_para_001",
+            "page": 68,
+            "score": 0.5755299124449476,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Europeans encountered New World animals as well. Because European Christians understood the world as a\nplace of warfare ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q12",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "What is recognized as the oldest continuously inhabited European city in North America, established in 1565?",
+        "gold_page": 75,
+        "evidence_quote": "In 1565, the victorious Menéndez founded St. Augustine, now the oldest European settlement in the Americas.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p098_para_002",
+            "page": 98,
+            "score": 0.49192737696118627,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Augustine, the first\nSpanish settlement in North America\nwampum shell beads used in ceremonies and as jewelry and curren..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p098_para_003",
+            "page": 98,
+            "score": 0.48127262608390986,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "3.2 Colonial Rivalries: Dutch and French Colonial Ambitions\nThe French and Dutch established colonies in the northeaster..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p073_para_001",
+            "page": 73,
+            "score": 0.47696871497760385,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "INTRODUCTION\nCHAPTER OUTLINE\n3.1 Spanish Exploration and Colonial Society\n3.2 Colonial Rivalries: Dutch and French Colon..."
+          }
+        ]
+      },
+      {
+        "question_id": "q13",
+        "split": "dev",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What privileges and corresponding conditions were defined under Dutch patroonships in New Netherland?",
+        "gold_page": 78,
+        "evidence_quote": "it granted Dutch merchants who invested heavily in it patroonships, or large tracts of land and the right to govern the tenants there.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p078_para_000",
+            "page": 78,
+            "score": 0.6304947360499691,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 3.6 This 1684 map of New Netherland shows the extent of Dutch settlement. The Dutch West India Company found the ..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p077_para_002",
+            "page": 77,
+            "score": 0.539946692634866,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The small size of the population meant a\nsevere labor shortage, and to complete the arduous tasks of early settlement, t..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p078_para_001",
+            "page": 78,
+            "score": 0.5273196980362237,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "This pattern of settlement created a yawning\ngap in wealth and status between the tenants, who paid rent, and the wealth..."
+          }
+        ]
+      },
+      {
+        "question_id": "q14",
+        "split": "dev",
+        "type": "dien_dat_lai",
+        "question": "What agricultural commodity formed the backbone of the economy in colonial Virginia and Maryland?",
+        "gold_page": 81,
+        "evidence_quote": "growing tobacco was the only sure means of making money.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p083_para_001",
+            "page": 83,
+            "score": 0.594750065384647,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In\n1614, the Virginia colony began exporting tobacco back to England, which earned it a sizable profit and saved\nthe col..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p081_para_001",
+            "page": 81,
+            "score": 0.5202439346567078,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Though the early\nVirginians at Jamestown hoped to find gold, they and the settlers in Maryland quickly discovered that g..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p085_para_002",
+            "page": 85,
+            "score": 0.5163859403184194,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "On the small island of Barbados, colonized in the 1620s, English planters\nfirst grew tobacco as their main export crop, ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q15",
+        "split": "dev",
+        "type": "truc_tiep",
+        "question": "How did the headright policy operated by the Virginia Company incentivize transatlantic migration?",
+        "gold_page": 84,
+        "evidence_quote": "those who paid their own passage to Virginia received fifty acres plus an additional fifty for each servant or family member they brought with them.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p084_para_000",
+            "page": 84,
+            "score": 0.626680726219887,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "the planters would then sell them to other tobacco planters to avoid the costs of raising a child. Nonetheless, those in..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p098_para_000",
+            "page": 98,
+            "score": 0.551287730550987,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Key Terms\nheadright system a system in which parcels of land were granted to settlers who could pay their own way to\nVir..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p081_para_000",
+            "page": 81,
+            "score": 0.4989424428770123,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "FIGURE 3.8 In the early seventeenth century, thousands of English settlers came to what are now Virginia,\nMaryland, and ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q16",
+        "split": "test",
+        "type": "truc_tiep",
+        "question": "What fundamental governance agreement did the English Pilgrims draft and sign aboard ship in 1620?",
+        "gold_page": 61,
+        "evidence_quote": "Their story includes the signing of the Mayflower Compact, a written agreement whereby the English voluntarily agreed to help each other.",
+        "filter": null,
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p088_para_001",
+            "page": 88,
+            "score": 0.6771555328891904,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The Mayflower Compact and Its Religious Rationale\nThe Mayflower Compact, which forty-one Pilgrim men signed on board the..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p088_para_000",
+            "page": 88,
+            "score": 0.637097592811757,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Separatists represented a major challenge to the prevailing vision of a unified English national church and\nempire. On b..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p061_para_003",
+            "page": 61,
+            "score": 0.6270314110469924,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Some interpret this 1620 document as\nan expression of democratic spirit because of the cooperative and inclusive nature ..."
+          }
+        ]
+      },
+      {
+        "question_id": "q17",
+        "split": "test",
+        "type": "dien_dat_lai",
+        "question": "Which outspoken religious figures were expelled from the Massachusetts Bay colony during the 1630s for defying Puritan orthodoxy?",
+        "gold_page": 90,
+        "evidence_quote": "Puritan minister Roger Williams and Anne Hutchinson, challenged Governor Winthrop in Massachusetts Bay in the 1630s, they were banished.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p090_para_001",
+            "page": 90,
+            "score": 0.689536391963786,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "When dissenters, including Puritan minister Roger Williams and\nAnne Hutchinson, challenged Governor Winthrop in Massachu..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p087_para_001",
+            "page": 87,
+            "score": 0.6002681190703144,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "These reformers, who followed the teachings of John Calvin and other Protestant\nreformers, were called Puritans because ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p081_para_003",
+            "page": 81,
+            "score": 0.5486368460258922,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "The source of those differences lay in England’s domestic problems. Increasingly in the early 1600s, the\nEnglish state c..."
+          }
+        ]
+      },
+      {
+        "question_id": "q18",
+        "split": "test",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What fundamental grievance drove Wampanoag leader Metacom to launch King Philip's War against New England settlements in 1675?",
+        "gold_page": 91,
+        "evidence_quote": "Wampanoag leader Metacom or Metacomet, also known as King Philip among the English, was determined to stop the encroachment.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p091_para_002",
+            "page": 91,
+            "score": 0.7298818406449508,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "By the mid-seventeenth century, the Puritans had pushed their way further into the interior of New England,\nestablishing..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p091_para_000",
+            "page": 91,
+            "score": 0.5741812213046864,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "reading scripture, he translated the Bible into the local Algonquian language and published his work in 1663. Eliot hope..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p091_para_001",
+            "page": 91,
+            "score": 0.5295516374213092,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "When the Puritans began to arrive in the 1620s and 1630s, local Algonquian peoples had viewed them as\npotential allies i..."
+          }
+        ]
+      },
+      {
+        "question_id": "q19",
+        "split": "test",
+        "type": "dien_dat_lai",
+        "question": "Which epidemic disease caused massive casualties among indigenous peoples such as the Huron and Iroquois around the Great Lakes?",
+        "gold_page": 95,
+        "evidence_quote": "Huron and Iroquois around the Great Lakes died of smallpox. As is often the case with disease, the very young and the very old were the most vulnerable and had the highest mortality rates.",
+        "filter": null,
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p095_para_002",
+            "page": 95,
+            "score": 0.6012300587219783,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "Native\npeoples who moved seasonally to take advantage of natural resources now found areas off limits, claimed by\ncoloni..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p068_para_003",
+            "page": 68,
+            "score": 0.4971015207939973,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "In eastern North America, some native peoples interpreted death from disease as a hostile act. Some groups,\nincluding th..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p068_para_002",
+            "page": 68,
+            "score": 0.4758206424650918,
+            "chapter": "Chapter 2: Early Globalization: The Atlantic World, 1492-1650",
+            "page_matched": false,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Travelers between the Americas, Africa, and Europe also included microbes: silent, invisible life forms that\nhad profoun..."
+          }
+        ]
+      },
+      {
+        "question_id": "q20",
+        "split": "test",
+        "type": "dieu_kien_ngoai_le",
+        "question": "What were the immediate military outcomes of the 1680 Pueblo Revolt against Spanish colonization in New Mexico?",
+        "gold_page": 76,
+        "evidence_quote": "The Pueblo Revolt killed over four hundred Spaniards and drove the rest of the settlers, perhaps as many as two thousand, south toward Mexico.",
+        "filter": {
+          "chapter": "Chapter 3"
+        },
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "hits": [
+          {
+            "rank": 1,
+            "chunk_id": "openstax-us-history_p076_para_002",
+            "page": 76,
+            "score": 0.6207976089162344,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": true,
+            "is_gold_hit": true,
+            "filter_compliant": true,
+            "text_preview": "This\ndeep insult, combined with an extended period of drought and increased attacks by local Apache and Navajo\nin the 16..."
+          },
+          {
+            "rank": 2,
+            "chunk_id": "openstax-us-history_p076_para_003",
+            "page": 76,
+            "score": 0.5906116580194812,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "However, as droughts and attacks by rival tribes continued, the Spanish sensed an opportunity to regain their\nfoothold. ..."
+          },
+          {
+            "rank": 3,
+            "chunk_id": "openstax-us-history_p076_para_001",
+            "page": 76,
+            "score": 0.5853220425522562,
+            "chapter": "Chapter 3: Creating New Social Orders: Colonial Societies, 1500-1700",
+            "page_matched": true,
+            "evidence_matched": false,
+            "is_gold_hit": false,
+            "filter_compliant": true,
+            "text_preview": "Santa Fe became the capital of the Kingdom of New Mexico,\nan outpost of the larger Spanish Viceroyalty of New Spain, whi..."
+          }
+        ]
+      }
+    ]
+  }
+}

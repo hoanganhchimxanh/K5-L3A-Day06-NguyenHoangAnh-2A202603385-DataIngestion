@@ -1,0 +1,125 @@
+{
+  "timestamp": "2026-11-13T11:51:58Z",
+  "model": "text-embedding-3-small",
+  "provider": "openai",
+  "dimensions": 1536,
+  "stats": {
+    "Strategy_A": {
+      "chunk_count": 539,
+      "ingest_time_s": 16.58,
+      "summary": {
+        "overall": {
+          "count": 20,
+          "hit1_count": 14,
+          "hit1_ratio": "14/20",
+          "hit1_pct": 70.0,
+          "hit3_count": 17,
+          "hit3_ratio": "17/20",
+          "hit3_pct": 85.0
+        },
+        "dev": {
+          "count": 15,
+          "hit1_count": 11,
+          "hit1_ratio": "11/15",
+          "hit1_pct": 73.33,
+          "hit3_count": 13,
+          "hit3_ratio": "13/15",
+          "hit3_pct": 86.67
+        },
+        "test": {
+          "count": 5,
+          "hit1_count": 3,
+          "hit1_ratio": "3/5",
+          "hit1_pct": 60.0,
+          "hit3_count": 4,
+          "hit3_ratio": "4/5",
+          "hit3_pct": 80.0
+        },
+        "filter_compliance": {
+          "queries_with_filter": 5,
+          "compliant_queries": 5,
+          "ratio": "5/5",
+          "pct": 100.0
+        }
+      }
+    },
+    "Strategy_B": {
+      "chunk_count": 349,
+      "ingest_time_s": 7.66,
+      "summary": {
+        "overall": {
+          "count": 20,
+          "hit1_count": 12,
+          "hit1_ratio": "12/20",
+          "hit1_pct": 60.0,
+          "hit3_count": 17,
+          "hit3_ratio": "17/20",
+          "hit3_pct": 85.0
+        },
+        "dev": {
+          "count": 15,
+          "hit1_count": 8,
+          "hit1_ratio": "8/15",
+          "hit1_pct": 53.33,
+          "hit3_count": 13,
+          "hit3_ratio": "13/15",
+          "hit3_pct": 86.67
+        },
+        "test": {
+          "count": 5,
+          "hit1_count": 4,
+          "hit1_ratio": "4/5",
+          "hit1_pct": 80.0,
+          "hit3_count": 4,
+          "hit3_ratio": "4/5",
+          "hit3_pct": 80.0
+        },
+        "filter_compliance": {
+          "queries_with_filter": 5,
+          "compliant_queries": 5,
+          "ratio": "5/5",
+          "pct": 100.0
+        }
+      }
+    },
+    "Strategy_C": {
+      "chunk_count": 349,
+      "ingest_time_s": 0.0,
+      "summary": {
+        "overall": {
+          "count": 20,
+          "hit1_count": 12,
+          "hit1_ratio": "12/20",
+          "hit1_pct": 60.0,
+          "hit3_count": 17,
+          "hit3_ratio": "17/20",
+          "hit3_pct": 85.0
+        },
+        "dev": {
+          "count": 15,
+          "hit1_count": 8,
+          "hit1_ratio": "8/15",
+          "hit1_pct": 53.33,
+          "hit3_count": 13,
+          "hit3_ratio": "13/15",
+          "hit3_pct": 86.67
+        },
+        "test": {
+          "count": 5,
+          "hit1_count": 4,
+          "hit1_ratio": "4/5",
+          "hit1_pct": 80.0,
+          "hit3_count": 4,
+          "hit3_ratio": "4/5",
+          "hit3_pct": 80.0
+        },
+        "filter_compliance": {
+          "queries_with_filter": 5,
+          "compliant_queries": 5,
+          "ratio": "5/5",
+          "pct": 100.0
+        }
+      }
+    }
+  }
+}

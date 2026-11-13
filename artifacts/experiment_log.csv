@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"doc_id, source, page, chapter, section",none,openai_text-embedding-3-small,"Baseline fixed-size chunking. Simple but risks cutting sentences and losing context.",11/15 (73.33%),13/15 (86.67%),3/5 (60.0%),4/5 (80.0%),"539 chunks, ingest 16.58s. Hit@1 dev cao do mật độ từ khóa nhưng coherence cực thấp (0.1/2) do đứt câu."
+B,by_paragraph,800,0,"doc_id, source, page, chapter, section",none,openai_text-embedding-3-small,"Structure-aware paragraph chunking preserves coherent semantic units and sentence boundaries.",8/15 (53.33%),13/15 (86.67%),4/5 (80.0%),4/5 (80.0%),"349 chunks, ingest 7.66s (tiết kiệm 35% storage, nhanh gấp đôi). Test Hit@1 tăng vọt lên 80%, coherence 2.0/2."
+C,by_paragraph,800,0,"doc_id, source, page, chapter, section",chapter_filter,openai_text-embedding-3-small,"Reuses Strategy B chunks but applies metadata filter (chapter) for filtered queries to eliminate out-of-scope candidates.",8/15 (53.33%),13/15 (86.67%),4/5 (80.0%),4/5 (80.0%),"Tái sử dụng chunks của B (ingest 0s). Tuân thủ 100% filter (5/5 câu). Loại trừ hoàn toàn nhiễu từ các chương khác."
